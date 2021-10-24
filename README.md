@@ -1,4 +1,4 @@
-# Credit_Risk_Analysis
+# CREDIT RISK ANALYSIS
 
 ## Overview
 In this project, we created machine learning models to predict the risk in giving loans to someone by doing a credit analysis. We used imbalanced-learn and sci-kit libraries to develop and evaluate our models.
@@ -23,9 +23,10 @@ In this project, we created machine learning models to predict the risk in givin
 - High Precision: 1%
 
 ### Combination (Over and Under) Sampling
+> ![image](https://user-images.githubusercontent.com/86074187/138612482-66afac71-11b0-41bc-9929-84aa90d576df.png)
 
-- Balance accuracy test: 
-- High Precision:
+- Balance accuracy test: 65%
+- High Precision: 1%
 
 ### Balanced Random Forest Classifier
 
